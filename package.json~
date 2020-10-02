@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Primer proyecto con bootstrap 4 U. Austral",
   "main": "index.html",
-  "scripts": {
-    "dev": "lite-server",
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "scripts": { 
+	  "dev": "lite-server",
+   	 "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,6 @@
     "lite-server": "^2.5.4"
   },
   "dependencies": {
-    "bootstrap": "^4.5.2",
-    "darwin": "0.0.5",
-    "jquery": "^3.5.1",
-    "popper.js": "^1.16.1"
+    "darwin": "0.0.5"
   }
 }
