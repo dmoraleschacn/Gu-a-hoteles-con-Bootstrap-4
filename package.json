@@ -12,5 +12,11 @@
   },
   "author": "Diego Morales Ch",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/dmoraleschacn/guia-hoteles#readme"
+  "homepage": "https://bitbucket.org/dmoraleschacn/guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "darwin": "0.0.5"
+  }
 }
