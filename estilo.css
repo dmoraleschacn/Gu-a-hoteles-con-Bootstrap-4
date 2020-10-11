@@ -30,6 +30,7 @@ a {
 .btn-reserva {
     border-radius: 0%;
     width: 100%;
+    justify-content: center;
 }
 
 .footer-address-icon {
